@@ -7,7 +7,6 @@
  */
 
 
-
 const urls = [
 	'https://www.surveycake.com/s/NGw3D',
 	'https://www.surveycake.com/s/lY6o3',
