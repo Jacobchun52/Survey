@@ -5,7 +5,6 @@ const urls = [
 	'https://www.surveycake.com/s/64QY2', 
 	'https://www.surveycake.com/s/qLD2d', 
 	'https://www.surveycake.com/s/64QY2', 
-	'https://www.surveycake.com/s/qLD2d', 
 	'https://www.surveycake.com/s/64QY2', 
-	'https://www.surveycake.com/s/qLD2d', 	
+	'https://www.surveycake.com/s/64QY2'
 ];
