@@ -7,6 +7,18 @@ const urls = [
 *'https://www.surveycake.com/s/XDQQ8',
 */
 
+/* 餐飲品牌APP */	
+'https://www.surveycake.com/s/Yaax2',
+'https://www.surveycake.com/s/7LLxN',
+
+/* 電商平台 */
+'https://www.surveycake.com/s/r33W0',
+'https://www.surveycake.com/s/Rgg4y',
+/* 電信公司 */
+'https://www.surveycake.com/s/Gaa0P',
+'https://www.surveycake.com/s/VaaQR',
+
+/* 串流 */
 'https://www.surveycake.com/s/YaaL7',
 'https://www.surveycake.com/s/KaavN',
 'https://www.surveycake.com/s/NGGrB',
